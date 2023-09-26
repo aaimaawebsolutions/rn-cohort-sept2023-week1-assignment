@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "My_first",
-    "slug": "My_first",
+    "name": "rn-cohort-sept2023-week1-assignment",
+    "slug": "rn-cohort-sept2023-week1-assignment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
